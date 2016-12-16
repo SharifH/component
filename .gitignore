@@ -1,0 +1,12 @@
+node_modules/director
+!node_modules/director/build/director.js
+
+node_modules/react
+!node_modules/react/dist/react-with-addons.js
+!node_modules/react/dist/JSXTransformer.js
+node_modules/roommate-app-css
+!node_modules/roommate-app-css/index.css
+
+node_modules/roommate-common
+!node_modules/roommate-common/base.css
+!node_modules/roommate-common/base.js
